@@ -4,9 +4,3 @@ django-widget-tweaks==1.4.8
 sqlparse==0.3.1
 
 
-
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MrKamau/hospitalmanagement-master.git
-git push -u origin main
