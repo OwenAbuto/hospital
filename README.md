@@ -87,7 +87,11 @@
 
 - All necessary tools are located in the requirements.txt file. 
 
-- To run the program, screenshots have been attached for the entire procedure. 
+- To run the program, screenshots have been attached for the entire procedure.
+
+# Codacy Badge (Codebeamer)
+
+- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c8ffd6f731e2456dbd0156f75c84679e)](https://app.codacy.com/gh/OwenAbuto/hospital/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 # Developer
   - Owen Abuto Okoth 2023/2024.
