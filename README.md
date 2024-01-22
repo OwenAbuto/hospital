@@ -85,6 +85,10 @@
 
 - Symptom inputs and generated outputs
 
+- All necessary tools are located in the requirements.txt file. 
+
+- To run the program, screenshots have been attached for the entire procedure. 
+
 # Developer
   - Owen Abuto Okoth 2023/2024.
 
