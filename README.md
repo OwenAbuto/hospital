@@ -3,7 +3,7 @@
 
 # Software Development Project.
 
- This is a simple hospital management system implemented in Python and HTML, designed to help healthcare professionals manage patient records and identify patients efficiently, as well as manage traffic between patients and doctors for a Software Development Course.
+ - This is a simple hospital management system implemented in Python and HTML, designed to help healthcare professionals manage patient records and identify patients efficiently, as well as manage traffic between patients and doctors for a Software Development Course.
 
 # Features/Characteristics
 - Patient Registration: Medical services experts and non experts can enroll new patients and store their data safely.
@@ -63,7 +63,7 @@
 - Can view/download Invoice pdf (Only when that patient is discharged by admin).
 
 # UML Diagrams
- To enhance the understanding of the system's structure and behavior, UML diagrams have been created for the core classes: (Diagrams attached in the UML Diagrams folder)
+ - To enhance the understanding of the system's structure and behavior, UML diagrams have been created for the core classes: (Diagrams attached in the UML Diagrams folder)
 
 - Class Diagram: Illustrates the relationships and attributes of the classes involved in the system.
 
@@ -86,7 +86,7 @@
 - Symptom inputs and generated outputs
 
 # Developer
-  Owen Abuto Okoth 2023/2024.
+  - Owen Abuto Okoth 2023/2024.
 
 ---
 
